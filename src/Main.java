@@ -9,7 +9,7 @@ public class Main {
         System.out.print("Enter your second number: ");
         int b = sc.nextInt();
 
-            int c = a / b;
+            int c = a / b
 
             System.out.println("Result of division: " + c);
 
